@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abu Saeed
 - 👀 I’m Working as Android App Developer
-- 🌱 we develop more Apps on React Native 
+- 🌱 we develop a lot of Native Apps
 - 💞️ 
 - 📫 
 
